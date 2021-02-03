@@ -47,8 +47,6 @@ https://www.sharetextures.com/textures/
 
 https://texturefun.com/
 
-https://hdrihaven.com/hdris/
-
 https://www.sharetextures.com/
 
 https://www.cgbookcase.com/textures
@@ -62,3 +60,8 @@ Web Texturas en general
 * .[3dxo] https://www.3dxo.com/textures
 
 Comentarios: 2/5 Son texturas sueltas, q no tienen todos los mapas
+
+HDRIs
+https://hdrihaven.com/hdris/
+
+Comentarios: 5/5 Para obtener hdris

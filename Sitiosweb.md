@@ -62,6 +62,7 @@ Web Texturas en general
 Comentarios: 2/5 Son texturas sueltas, q no tienen todos los mapas
 
 HDRIs
+
 https://hdrihaven.com/hdris/
 
 Comentarios: 5/5 Para obtener hdris
